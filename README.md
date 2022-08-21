@@ -1,7 +1,7 @@
 # skc03-ino-design
-![photo](./skc03-ino.jpg)
+![photo](./kbd-ino.jpg)
 
-This repo consists of design files to build keyboard [ino (Japanese)](https://github.com/hidsh/zzz-kbd/blob/master/products/ino/index.md).
+This repo consists of design files to build DIY keyboard [ino (Japanese)](https://github.com/hidsh/zzz-kbd/blob/master/products/ino/index.md).
 
 ## 3D Print
 Folder [3dp](./3dp) contains some `step` files for enclosure case and choc-keycaps.
