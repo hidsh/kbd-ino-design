@@ -1,5 +1,5 @@
 # skc03-ino-design
-![image](./skc03-ino.png)
+![photo](./skc03-ino.jpg)
 
 This repo consists of design files to build keyboard [ino (Japanese)](https://github.com/hidsh/zzz-kbd/blob/master/products/ino/index.md).
 
@@ -14,5 +14,3 @@ BOM(parts list) is available on [Google Spreadsheet](https://docs.google.com/spr
 
 ## links
 - [firmware](https://github.com/hidsh/qmk_firmware/)
-
-
